@@ -1,7 +1,5 @@
-# Loja-Angular-Proway
-E Commerce Criado no curso da Capgemini-Proway
-ProwayComputer
-Este projeto foi gerado com Angular CLI versão 14.2.9.
+PROWAY COMPUTADORES
+Este projeto foi gerado com Angular CLI versão 14.2.5.
 
 servidor de desenvolvimento
 Corra ng servepara um servidor dev. Navegue até http://localhost:4200/. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
